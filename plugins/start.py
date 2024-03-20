@@ -93,7 +93,7 @@ async def start_command(client: Client, message: Message):
                     InlineKeyboardButton('♦ 𝐌𝐨𝐯𝐢𝐞 𝐆𝐫𝐩 ♦', url=f"https://telegram.me/movies_hub_official2"), 
                     InlineKeyboardButton('🔰 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🔰', url=f"https://telegram.me/+qcIFCI0NT2g5ODhl") 
                 ],[
-                    InlineKeyboardButton('❄ 𝐉𝐎𝐈𝐍 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ❄', url=f"https://telegram.me/TG_LINKS_CHANNEL2")
+                    InlineKeyboardButton('❄ 𝐉𝐎𝐈𝐍 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ❄', url=f"https://telegram.me/TG_UPDATES1")
                 ],[
                     InlineKeyboardButton("😈 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 😈", callback_data = "about"),
                     InlineKeyboardButton("❗❗ 𝐂𝐥𝐨𝐬𝐞 ❗❗", callback_data = "close")
